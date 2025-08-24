@@ -11,6 +11,7 @@ The calculator handles:
 The project uses **Jackson** for JSON parsing.
 
 ## Project Structure
+```text
 PayrollCalApp/
 ├─ src/
 │ └─ main/
@@ -20,7 +21,7 @@ PayrollCalApp/
 │ └─ resources/
 │ └─ PunchLogicTest.jsonc
 ├─ pom.xml
-
+```
 
 ## How to Run
 1. Ensure you have **Java 17** and **Maven** installed.
