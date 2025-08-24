@@ -28,9 +28,11 @@ PayrollCalApp/
 2. Build the project:
 ```bash
 mvn clean compile
+```
 3.Run the project:
 ```bash
 mvn exec:java -Dexec.mainClass="PayrollMain"
+```
 
 Alternatively, run PayrollMain directly from IntelliJ IDEA.
 Note: Make sure PunchLogicTest.jsonc is placed in src/main/resources so the program can find it.
