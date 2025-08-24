@@ -29,6 +29,7 @@ PayrollCalApp/
 ```bash
 mvn clean compile
 3.Run the project:
+```bash
 mvn exec:java -Dexec.mainClass="PayrollMain"
 
 Alternatively, run PayrollMain directly from IntelliJ IDEA.
